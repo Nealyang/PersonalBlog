@@ -7,9 +7,12 @@
 Underscore源码阅读大致按照[官方文档](http://www.css88.com/doc/underscore/#collections)来编写.尽量的说明每一个函数的写法，希望自己可以从中可以收获大神的编码功力。 
 
 
+[github:Personal_Blog](https://github.com/Nealyang/PersonalBlog/)
+
+
 ## 阅读目录
 
-- [窥探Underscore源码系列-开篇]()
+- [窥探Underscore源码系列-开篇](https://github.com/Nealyang/PersonalBlog/blob/master/201804/%E7%AA%A5%E6%8E%A2Underscore%E6%BA%90%E7%A0%81%E7%B3%BB%E5%88%97-%E5%BC%80%E7%AF%87%E4%BB%8B%E7%BB%8D.md)
 - [窥探Underscore源码系列-工具](#)
 - [窥探Underscore源码系列-集合](#)
 - [窥探Underscore源码系列-数组](#)
@@ -17,7 +20,7 @@ Underscore源码阅读大致按照[官方文档](http://www.css88.com/doc/unders
 - [窥探Underscore源码系列-对象](#)
 - [窥探Underscore源码系列-感悟](#)
 
-> [源码地址]()
+> [Underscore源码+注释地址](https://github.com/Nealyang/PersonalBlog/blob/master/lib/underscore/underscore.js)
 ## 源码阅读
 
 
