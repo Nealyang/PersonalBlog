@@ -1,6 +1,6 @@
 # React源码分析与实现(一)：组件的初始化与渲染
 
-> 原文链接地址：[]() 转载请注明出处
+> 原文链接地址：[https://github.com/Nealyang](https://github.com/Nealyang/PersonalBlog/blob/master/2018/React%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E4%B8%80)%EF%BC%9A%E7%BB%84%E4%BB%B6%E7%9A%84%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%8E%E6%B8%B2%E6%9F%93.md) 转载请注明出处
 
 ## 前言
 
