@@ -55,4 +55,4 @@ React技术栈群号:398240621
 
 ![img](https://github.com/Nealyang/PersonalBlog/blob/master/lib/img/Wechat.jpeg)
 
-备注信息：申请加入React交流群
+备注信息：标明来意
