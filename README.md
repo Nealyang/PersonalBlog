@@ -51,8 +51,4 @@ React技术栈群号:398240621
 
 前端技术杂谈群号:604953717
 
-个人微信：
-
-![img](https://github.com/Nealyang/PersonalBlog/blob/master/lib/img/Wechat.jpeg)
-
 备注信息：标明来意
