@@ -35,6 +35,8 @@
 
 ## 关于flutter
 [Flutter从入门到寄几玩儿](https://github.com/Nealyang/PersonalBlog/issues/11)
+
+[Flutter入门实战：从0到1仿写web版掘金App](https://juejin.im/book/5bff85f3e51d453c6c05fa57)
 ## 网络吧
 
 ## 杂谈
