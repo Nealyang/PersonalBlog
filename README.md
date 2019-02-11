@@ -35,6 +35,8 @@
 
 ## Dart
 
+[Dart 从入门到放弃之语言概览](https://github.com/Nealyang/PersonalBlog/issues/15)
+
 ## 关于flutter
 [Flutter从入门到寄几玩儿](https://github.com/Nealyang/PersonalBlog/issues/11)
 
