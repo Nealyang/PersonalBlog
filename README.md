@@ -12,34 +12,29 @@
 
 ## 搞搞js
 
-[函数式编程了解一下（上）](./2018/函数式编程了解一下（上）.md)</br>
-[ 函数式编程了解一下(下) ](./2018/函数式编程了解一下(下).md)</br>
-[ 窥探Underscore源码系列-开篇介绍 ](./2018/窥探Underscore源码系列-开篇介绍.md)
+- [函数式编程了解一下（上）](./2018/函数式编程了解一下（上）.md)
+- [ 函数式编程了解一下(下) ](./2018/函数式编程了解一下(下).md)
+- [ 窥探Underscore源码系列-开篇介绍 ](./2018/窥探Underscore源码系列-开篇介绍.md)
 
 
 ## 关于React
 
-[ React源码分析与实现(一)：组件的初始化与渲染 ](./2018/React源码分析与实现(一)：组件的初始化与渲染.md)
-
-[React源码分析与实现(二)：状态、属性更新 -> setState](https://github.com/Nealyang/PersonalBlog/blob/master/2018/React%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E4%BA%8C)%EF%BC%9A%E7%8A%B6%E6%80%81%E3%80%81%E5%B1%9E%E6%80%A7%E6%9B%B4%E6%96%B0%20-%3E%20setState.md)
-
-[React源码分析与实现(三)：实操DOM Diff ](https://github.com/Nealyang/PersonalBlog/issues/2)
+- [ React源码分析与实现(一)：组件的初始化与渲染 ](./2018/React源码分析与实现(一)：组件的初始化与渲染.md)
+- [React源码分析与实现(二)：状态、属性更新 -> setState](https://github.com/Nealyang/PersonalBlog/blob/master/2018/React%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E4%BA%8C)%EF%BC%9A%E7%8A%B6%E6%80%81%E3%80%81%E5%B1%9E%E6%80%A7%E6%9B%B4%E6%96%B0%20-%3E%20setState.md)
+- [React源码分析与实现(三)：实操DOM Diff ](https://github.com/Nealyang/PersonalBlog/issues/2)
 
 
 ## 关于flutter
-[Flutter从入门到寄几玩儿](https://github.com/Nealyang/PersonalBlog/issues/11)
-
-[Flutter入门实战：从0到1仿写web版掘金App](https://juejin.im/book/5bff85f3e51d453c6c05fa57)
-
-[Flutter 状态管理之 Scoped Model & Redux](https://github.com/Nealyang/PersonalBlog/issues/12)
-
-[盘一盘Flutter中“小巧”的组件与属性](https://github.com/Nealyang/PersonalBlog/issues/14)
+- [Flutter从入门到寄几玩儿](https://github.com/Nealyang/PersonalBlog/issues/11)
+- [Flutter入门实战：从0到1仿写web版掘金App](https://juejin.im/book/5bff85f3e51d453c6c05fa57)
+- [Flutter 状态管理之 Scoped Model & Redux](https://github.com/Nealyang/PersonalBlog/issues/12)
+- [盘一盘Flutter中“小巧”的组件与属性](https://github.com/Nealyang/PersonalBlog/issues/14)
 
 ## 网络吧
 
 ## 杂谈前端
 
-[Nealyang 2018 前端路](https://github.com/Nealyang/PersonalBlog/issues/13)
+- [Nealyang 2018 前端路](https://github.com/Nealyang/PersonalBlog/issues/13)
 
 ## 技术交流
 
