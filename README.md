@@ -3,8 +3,7 @@
 
 ## Once the blog
 
-[编写高质量代码基本要点](./OnceTheBlog/编写高质量代码基本要点.md)
-
+[编写高质量代码基本要点](./OnceTheBlog/编写高质量代码基本要点.md)</br>
 [变量、作用域和内存问题](./OnceTheBlog/变量、作用域和内存问题.md)
 
 [JavaScript面向对象](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/prototype-based.md)
