@@ -4,22 +4,16 @@
 ## Once the blog
 
 [编写高质量代码基本要点](./OnceTheBlog/编写高质量代码基本要点.md)</br>
-[变量、作用域和内存问题](./OnceTheBlog/变量、作用域和内存问题.md)
-
-[JavaScript面向对象](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/prototype-based.md)
-
-[忍者级别的操作JavaScript函数](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/%E5%BF%8D%E8%80%85%E7%BA%A7%E5%88%AB%E7%9A%84%E6%93%8D%E4%BD%9C%E5%87%BD%E6%95%B0.md)
-
-[this 其实很简单](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/%E5%BD%BB%E5%BA%95%E6%98%8E%E7%99%BDthis%E6%8C%87%E5%90%91.md?1536536968756)
-
-[不就是跨域么。。。慌个xx](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/JavaScript%E4%B8%AD%E7%9A%84%E8%B7%A8%E5%9F%9F%E6%80%BB%E7%BB%93.md?1536536995051)
+[变量、作用域和内存问题](./OnceTheBlog/变量、作用域和内存问题.md)</br>
+[JavaScript面向对象](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/prototype-based.md)</br>
+[忍者级别的操作JavaScript函数](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/%E5%BF%8D%E8%80%85%E7%BA%A7%E5%88%AB%E7%9A%84%E6%93%8D%E4%BD%9C%E5%87%BD%E6%95%B0.md)</br>
+[this 其实很简单](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/%E5%BD%BB%E5%BA%95%E6%98%8E%E7%99%BDthis%E6%8C%87%E5%90%91.md?1536536968756)</br>
+[不就是跨域么。。。慌个xx](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/JavaScript%E4%B8%AD%E7%9A%84%E8%B7%A8%E5%9F%9F%E6%80%BB%E7%BB%93.md?1536536995051)</br>
 
 ## 搞搞js
 
-[函数式编程了解一下（上）](./2018/函数式编程了解一下（上）.md)
-
-[ 函数式编程了解一下(下) ](./2018/函数式编程了解一下(下).md)
-
+[函数式编程了解一下（上）](./2018/函数式编程了解一下（上）.md)</br>
+[ 函数式编程了解一下(下) ](./2018/函数式编程了解一下(下).md)</br>
 [ 窥探Underscore源码系列-开篇介绍 ](./2018/窥探Underscore源码系列-开篇介绍.md)
 
 
