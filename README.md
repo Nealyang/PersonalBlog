@@ -27,9 +27,25 @@
 
 ## 关于flutter
 - [Flutter从入门到寄几玩儿](https://github.com/Nealyang/PersonalBlog/issues/11)
-- [Flutter入门实战：从0到1仿写web版掘金App](https://juejin.im/book/5bff85f3e51d453c6c05fa57)
 - [Flutter 状态管理之 Scoped Model & Redux](https://github.com/Nealyang/PersonalBlog/issues/12)
 - [盘一盘Flutter中“小巧”的组件与属性](https://github.com/Nealyang/PersonalBlog/issues/14)
+
+### Flutter入门实战：从0到1仿写web版掘金App
+- [Dart基础介绍](https://github.com/Nealyang/PersonalBlog/issues/18)
+- [flutter入门以及常用Widget介绍](https://github.com/Nealyang/PersonalBlog/issues/19)
+- [“flutter”数据model及json处理](https://github.com/Nealyang/PersonalBlog/issues/20)
+- [首页List UI编写](https://github.com/Nealyang/PersonalBlog/issues/21)
+- [fluro介绍以及路由配置](https://github.com/Nealyang/PersonalBlog/issues/22)
+- [网络请求](https://github.com/Nealyang/PersonalBlog/issues/23)
+- [下拉刷新 & 加载更多](https://github.com/Nealyang/PersonalBlog/issues/24)
+- [webView for Detail](https://github.com/Nealyang/PersonalBlog/issues/25)
+- [驻足思考、总结](https://github.com/Nealyang/PersonalBlog/issues/26)
+- [沸点 UI & 功能 编写(上)](https://github.com/Nealyang/PersonalBlog/issues/27)
+- [沸点 UI & 功能 编写(下)](https://github.com/Nealyang/PersonalBlog/issues/28)
+- [小册 UI & 功能 编写](https://github.com/Nealyang/PersonalBlog/issues/29)
+- [开源库、活动 UI & 功能 编写](https://github.com/Nealyang/PersonalBlog/issues/30)
+- [登陆功能 & App响应](https://github.com/Nealyang/PersonalBlog/issues/31)
+
 
 ## 网络吧
 
