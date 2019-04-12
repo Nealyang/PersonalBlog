@@ -48,6 +48,22 @@
 
 ## Node相关
 
+-  [实战react技术栈+express前后端博客项目（0）-- 预热一波](https://raw.githubusercontent.com/Nealyang/React-Express-Blog-Demo/master/record/doc/00_预热一波.md)
+- [实战react技术栈+express前后端博客项目（1）-- 整体项目结构搭建、state状态树设计](https://raw.githubusercontent.com/Nealyang/React-Express-Blog-Demo/master/record/doc/01_整体项目结构搭建、state状态树设计.md)
+- [实战react技术栈+express前后端博客项目（2）-- 前端react-xxx、路由配置](https://github.com/Nealyang/React-Express-Blog-Demo/blob/master/record/doc/02_%E5%89%8D%E7%AB%AFreact-xxx%E3%80%81%E8%B7%AF%E7%94%B1%E9%85%8D%E7%BD%AE.md)
+- [实战react技术栈+express前后端博客项目（3）-- 后端路由、代理以及静态资源托管等其他配置说明](https://raw.githubusercontent.com/Nealyang/React-Express-Blog-Demo/master/record/doc/03_后端路由、代理以及静态资源托管等其他配置说明.md)
+- [实战react技术栈+express前后端博客项目（4）-- 博客首页代码编写以及redux-saga组织](https://raw.githubusercontent.com/Nealyang/React-Express-Blog-Demo/master/record/doc/04_博客首页代码编写以及redux-saga组织.md)
+- [实战react技术栈+express前后端博客项目（5）-- 前后端实现登录功能](https://raw.githubusercontent.com/Nealyang/React-Express-Blog-Demo/master/record/doc/05_前后端实现登录功能.md)
+- [实战react技术栈+express前后端博客项目（6）-- 使用session实现免登陆+管理后台权限验证](https://raw.githubusercontent.com/Nealyang/React-Express-Blog-Demo/master/record/doc/06_使用session实现免登陆+管理后台权限验证.md)
+- [实战react技术栈+express前后端博客项目（7）-- 前端管理界面用户查看功能+后端对应接口开发](https://raw.githubusercontent.com/Nealyang/React-Express-Blog-Demo/master/record/doc/07_前端管理界面用户查看功能+后端对应接口开发.md)
+- [实战react技术栈+express前后端博客项目（8）-- 前端管理界面标签管理功能+后端对应接口开发](https://raw.githubusercontent.com/Nealyang/React-Express-Blog-Demo/master/record/doc/08_前端管理界面标签管理功能+后端对应接口开发.md)
+- [实战react技术栈+express前后端博客项目（9）-- 前端管理界面发表文章功能+后端对应接口](https://raw.githubusercontent.com/Nealyang/React-Express-Blog-Demo/master/record/doc/09_前端管理界面发表文章功能+后端对应接口.md)
+- [开发实战react技术栈+express前后端博客项目（10）-- 前端文章列表、路由控制以及对应后端文章管理开发](https://raw.githubusercontent.com/Nealyang/React-Express-Blog-Demo/master/record/doc/10_前端文章列表、路由控制以及对应后端文章管理开发.md)
+- [实战react技术栈+express前后端博客项目（11）-- 前端文章管理部分完善（修改、预览功能）](https://raw.githubusercontent.com/Nealyang/React-Express-Blog-Demo/master/record/doc/11_前端文章管理部分完善（修改、预览功能）.md)
+- [实战react技术栈+express前后端博客项目（12）-- 博客添加评论功能以及对应后端实现](http://huziketang.com/books/react/lesson14)
+- [实战react技术栈+express前后端博客项目（13）-- pm2的使用说明](https://github.com/jawil/blog/issues/7)
+- [实战react技术栈+express前后端博客项目（14）-- 收工](https://raw.githubusercontent.com/Nealyang/React-Express-Blog-Demo/master/record/doc/13_收工.md)
+
 ## 数据库相关
 
 ## 前端综合
@@ -58,33 +74,6 @@
 
 - [Nealyang 2018 前端路](https://github.com/Nealyang/PersonalBlog/issues/13)
 
-
-## 团队招聘
-
-  ### 🔥《阿里巴巴集团春季校园招聘》已经启动。
-  
-- 团队获取此消息后第一时间，赶紧通知，各位刚走出校园的千里马，走进阿里的机会来了！！！
- 
- 基本要求如下：
- 
- - 招收 2019年11月-2020年10月 毕业的同学
- - 本次校招行动共执行四周，到 4月12日结束
-
-#### 🔔强调一下这次是校招哦！！！如果你有意向，又符合 2019年11月-2020年10月 的应届毕业生条件;
-
-- 不符合，也没关系，可以推荐优秀的学弟，学妹；增进一下“纯洁”的同学感情 👫😎。
-
-#### 请移步往下,关注我们《阿里拍卖团队》 的招聘信息。
-
-<img src="https://img.alicdn.com/tfs/TB1mJ5tL7PoK1RjSZKbXXX1IXXa-748-879.png" width=500>
-
-<img src="https://img.alicdn.com/tfs/TB1PhOrLYrpK1RjSZTEXXcWAVXa-748-794.png" width=500>
-
-<img src="https://img.alicdn.com/tfs/TB1FXOlLYPpK1RjSZFFXXa5PpXa-748-440.png" width=500>
-
-#### 最重要的部分来了，手机扫描下面二维码，即可进入简历投递系统
-
-<img src="https://img.alicdn.com/tfs/TB1wO8CM3HqK1RjSZJnXXbNLpXa-176-163.png" width=200>
 
 ## 技术交流
 
