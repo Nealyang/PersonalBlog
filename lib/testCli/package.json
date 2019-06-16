@@ -1,0 +1,29 @@
+{
+  "name": "testcli",
+  "version": "1.0.0",
+  "description": "test cli",
+  "main": "index.js",
+  "bin": {
+    "tcli": "./bin/tcli",
+    "tcli-add": "./bin/tcli-add",
+    "tcli-list": "./bin/tcli-list",
+    "tcli-delete": "./bin/tcli-delete",
+    "tcli-init": "./bin/tcli-init"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nealyang",
+    "testCli"
+  ],
+  "author": "Nealyang",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "download-git-repo": "^2.0.0",
+    "inquirer": "^6.3.1",
+    "ora": "^3.4.0"
+  }
+}
