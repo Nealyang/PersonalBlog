@@ -1,0 +1,27 @@
+    static displayName = 'TitleZone';
+
+    static defaultProps = {
+        lazyload: true,
+        resizeMode: 'cover',
+        titleTag: []
+    }
+
+    render() {
+        const {
+            title,
+            titleTag,
+            lazyload,
+            resizeMode,
+            placeholder,
+            styles
+        } = this.props;
+
+        return (
+            <View style={[styles.title]}>
+                {
+                    titleTag && titleTag.map(function (titleTagUri, i) {
+                        return (
+                            <Image
+                                key={i}
+                                style={styles.titleTag}
+                                source={{
