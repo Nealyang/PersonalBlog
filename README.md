@@ -1,8 +1,6 @@
 # PersonalBlog
 > 随笔、总结、个人、学习、杂记  任何问题交流，提issue
 
-x。，
-
 
 
 ## 搞搞js
