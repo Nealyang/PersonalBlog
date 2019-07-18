@@ -15,7 +15,6 @@ if (program.args.length < 1) return program.help();
 let templateName = program.args[0];
 let projectName = program.args[1];
 
-console.log(templateName,projectName)
 console.log(tplObj,typeof tplObj)
 if (!tplObj[templateName]) {
   console.log(chalk.redBright("\n Template does not exit! \n"));
