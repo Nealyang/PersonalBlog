@@ -82,6 +82,12 @@
 
 ## 技术交流
 
+### 微信公众号
+
+![img](https://github.com/Nealyang/PersonalBlog/blob/master/img/wx.jpg)
+
+> 扫码关注微信公众号，获取第一手文章推送
+
 QQ群：
 
 nodejs 技术交流2群号:698239345
@@ -92,5 +98,3 @@ React技术栈群号:398240621
 前端技术杂谈群号:604953717
 
 Flutter群号:679476515
-
-备注信息：标明来意
