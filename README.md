@@ -1,6 +1,5 @@
-# PersonalBlog
+# PersonalBlog [Nealyang 全栈前端](https://github.com/Nealyang/PersonalBlog/issues/46)
 > 随笔、总结、个人、学习、杂记  任何问题交流，提issue
-
 
 
 ## 搞搞js
@@ -78,9 +77,16 @@
 ## 杂谈前端
 
 - [Nealyang 2018 前端路](https://github.com/Nealyang/PersonalBlog/issues/13)
+- [Nealyang 全栈前端](https://github.com/Nealyang/PersonalBlog/issues/46)
 
 
 ## 技术交流
+
+### 微信公众号
+
+![img](https://github.com/Nealyang/PersonalBlog/blob/master/img/wx.jpg)
+
+> 扫码关注微信公众号，获取第一手文章推送
 
 QQ群：
 
@@ -92,5 +98,3 @@ React技术栈群号:398240621
 前端技术杂谈群号:604953717
 
 Flutter群号:679476515
-
-备注信息：标明来意
