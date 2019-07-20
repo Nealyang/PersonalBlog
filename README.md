@@ -64,9 +64,7 @@
 - [实战react技术栈+express前后端博客项目（9）-- 前端管理界面发表文章功能+后端对应接口](https://github.com/Nealyang/React-Express-Blog-Demo/tree/master/record/doc/09_前端管理界面发表文章功能+后端对应接口.md)
 - [开发实战react技术栈+express前后端博客项目（10）-- 前端文章列表、路由控制以及对应后端文章管理开发](https://github.com/Nealyang/React-Express-Blog-Demo/tree/master/record/doc/10_前端文章列表、路由控制以及对应后端文章管理开发.md)
 - [实战react技术栈+express前后端博客项目（11）-- 前端文章管理部分完善（修改、预览功能）](https://github.com/Nealyang/React-Express-Blog-Demo/tree/master/record/doc/11_前端文章管理部分完善（修改、预览功能）.md)
-- [实战react技术栈+express前后端博客项目（12）-- 博客添加评论功能以及对应后端实现](http://huziketang.com/books/react/lesson14)
-- [实战react技术栈+express前后端博客项目（13）-- pm2的使用说明](https://github.com/jawil/blog/issues/7)
-- [实战react技术栈+express前后端博客项目（14）-- 收工](https://github.com/Nealyang/React-Express-Blog-Demo/tree/master/record/doc/13_收工.md)
+- [实战react技术栈+express前后端博客项目（12）-- pm2的使用说明](https://github.com/jawil/blog/issues/7)
 
 ## 数据库相关
 
