@@ -76,7 +76,7 @@
 
 - [Nealyang 2018 前端路](https://github.com/Nealyang/PersonalBlog/issues/13)
 - [Nealyang 全栈前端](https://github.com/Nealyang/PersonalBlog/issues/46)
-
+- [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 
 ## 技术交流
 
