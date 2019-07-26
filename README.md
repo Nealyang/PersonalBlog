@@ -82,7 +82,7 @@
 
 ### 微信公众号 && 微信群
 
-![img](https://github.com/Nealyang/PersonalBlog/blob/master/img/wx.jpg)
+<img src="https://raw.githubusercontent.com/Nealyang/PersonalBlog/master/img/qzqdjx.jpg" width=400 height=400 />
 
 > 扫码关注微信公众号，获取第一手文章推送。加入微信群、或者加我个人微信，一起交流
 
