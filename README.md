@@ -15,7 +15,7 @@
 
 
 ## 关于React
-
+- [记一个复杂组件（Filter）的从设计到开发](https://github.com/Nealyang/PersonalBlog/issues/47)
 - [ React源码分析与实现(一)：组件的初始化与渲染 ](./2018/React源码分析与实现(一)：组件的初始化与渲染.md)
 - [React源码分析与实现(二)：状态、属性更新 -> setState](https://github.com/Nealyang/PersonalBlog/blob/master/2018/React%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E4%BA%8C)%EF%BC%9A%E7%8A%B6%E6%80%81%E3%80%81%E5%B1%9E%E6%80%A7%E6%9B%B4%E6%96%B0%20-%3E%20setState.md)
 - [React源码分析与实现(三)：实操DOM Diff ](https://github.com/Nealyang/PersonalBlog/issues/2)
@@ -64,9 +64,7 @@
 - [实战react技术栈+express前后端博客项目（9）-- 前端管理界面发表文章功能+后端对应接口](https://github.com/Nealyang/React-Express-Blog-Demo/tree/master/record/doc/09_前端管理界面发表文章功能+后端对应接口.md)
 - [开发实战react技术栈+express前后端博客项目（10）-- 前端文章列表、路由控制以及对应后端文章管理开发](https://github.com/Nealyang/React-Express-Blog-Demo/tree/master/record/doc/10_前端文章列表、路由控制以及对应后端文章管理开发.md)
 - [实战react技术栈+express前后端博客项目（11）-- 前端文章管理部分完善（修改、预览功能）](https://github.com/Nealyang/React-Express-Blog-Demo/tree/master/record/doc/11_前端文章管理部分完善（修改、预览功能）.md)
-- [实战react技术栈+express前后端博客项目（12）-- 博客添加评论功能以及对应后端实现](http://huziketang.com/books/react/lesson14)
-- [实战react技术栈+express前后端博客项目（13）-- pm2的使用说明](https://github.com/jawil/blog/issues/7)
-- [实战react技术栈+express前后端博客项目（14）-- 收工](https://github.com/Nealyang/React-Express-Blog-Demo/tree/master/record/doc/13_收工.md)
+- [实战react技术栈+express前后端博客项目（12）-- pm2的使用说明](https://github.com/jawil/blog/issues/7)
 
 ## 数据库相关
 
@@ -78,15 +76,15 @@
 
 - [Nealyang 2018 前端路](https://github.com/Nealyang/PersonalBlog/issues/13)
 - [Nealyang 全栈前端](https://github.com/Nealyang/PersonalBlog/issues/46)
-
+- [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 
 ## 技术交流
 
-### 微信公众号
+### 微信公众号 && 微信群
 
 ![img](https://github.com/Nealyang/PersonalBlog/blob/master/img/wx.jpg)
 
-> 扫码关注微信公众号，获取第一手文章推送
+> 扫码关注微信公众号，获取第一手文章推送。加入微信群、或者加我个人微信，一起交流
 
 QQ群：
 
@@ -96,5 +94,3 @@ nodejs 技术交流1群号:209530601（已满）
 React技术栈群号:398240621
 
 前端技术杂谈群号:604953717
-
-Flutter群号:679476515
