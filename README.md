@@ -77,6 +77,7 @@
 - [Nealyang 2018 前端路](https://github.com/Nealyang/PersonalBlog/issues/13)
 - [Nealyang 全栈前端](https://github.com/Nealyang/PersonalBlog/issues/46)
 - [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
+- [学习方法分享：为何一年半就拿到了阿里、网易、滴滴的 offer](https://github.com/Nealyang/PersonalBlog/issues/49)
 
 ## 技术交流
 
