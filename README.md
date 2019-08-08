@@ -78,6 +78,7 @@
 - [Nealyang 全栈前端](https://github.com/Nealyang/PersonalBlog/issues/46)
 - [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 - [学习方法分享：为何一年半就能拿到大厂 offer](https://github.com/Nealyang/PersonalBlog/issues/49)
+- [大揭秘！“恐怖”的阿里一面，我究竟想问什么](https://github.com/Nealyang/PersonalBlog/issues/50)
 
 ## 技术交流
 
