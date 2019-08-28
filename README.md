@@ -30,6 +30,7 @@
 - [Flutter 状态管理之 Scoped Model & Redux](https://github.com/Nealyang/PersonalBlog/issues/12)
 - [盘一盘Flutter中“小巧”的组件与属性](https://github.com/Nealyang/PersonalBlog/issues/14)
 - [Flutter Go 代码开发规范 0.1.0 版](https://github.com/Nealyang/PersonalBlog/issues/34)
+- [Flutter 开发者国服最强辅助 App：FlutterGo 2.0 强势归来！！](https://github.com/Nealyang/PersonalBlog/issues/52)
 
 ### Flutter入门实战：从0到1仿写web版掘金App
 - [Dart基础介绍](https://github.com/Nealyang/PersonalBlog/issues/18)
