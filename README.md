@@ -22,6 +22,7 @@
 > 源码部分后续会补充完
 
 - [create-react-app 源码学习（上）](https://github.com/Nealyang/PersonalBlog/issues/36)
+- [(译) 如何使用 React hooks 获取 api 接口数据](https://github.com/Nealyang/PersonalBlog/issues/51)
 
 
 ## 关于flutter
@@ -29,6 +30,7 @@
 - [Flutter 状态管理之 Scoped Model & Redux](https://github.com/Nealyang/PersonalBlog/issues/12)
 - [盘一盘Flutter中“小巧”的组件与属性](https://github.com/Nealyang/PersonalBlog/issues/14)
 - [Flutter Go 代码开发规范 0.1.0 版](https://github.com/Nealyang/PersonalBlog/issues/34)
+- [Flutter 开发者国服最强辅助 App：FlutterGo 2.0 强势归来！！](https://github.com/Nealyang/PersonalBlog/issues/52)
 
 ### Flutter入门实战：从0到1仿写web版掘金App
 - [Dart基础介绍](https://github.com/Nealyang/PersonalBlog/issues/18)
@@ -77,12 +79,14 @@
 - [Nealyang 2018 前端路](https://github.com/Nealyang/PersonalBlog/issues/13)
 - [Nealyang 全栈前端](https://github.com/Nealyang/PersonalBlog/issues/46)
 - [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
+- [学习方法分享：为何一年半就能拿到大厂 offer](https://github.com/Nealyang/PersonalBlog/issues/49)
+- [大揭秘！“恐怖”的阿里一面，我究竟想问什么](https://github.com/Nealyang/PersonalBlog/issues/50)
 
 ## 技术交流
 
 ### 微信公众号 && 微信群
 
-![img](https://github.com/Nealyang/PersonalBlog/blob/master/img/wx.jpg)
+<img src="https://raw.githubusercontent.com/Nealyang/PersonalBlog/master/img/qzqdjx.jpg" width=400 height=400 />
 
 > 扫码关注微信公众号，获取第一手文章推送。加入微信群、或者加我个人微信，一起交流
 
