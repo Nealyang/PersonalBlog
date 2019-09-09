@@ -68,6 +68,8 @@
 - [实战react技术栈+express前后端博客项目（11）-- 前端文章管理部分完善（修改、预览功能）](https://github.com/Nealyang/React-Express-Blog-Demo/tree/master/record/doc/11_前端文章管理部分完善（修改、预览功能）.md)
 - [实战react技术栈+express前后端博客项目（12）-- pm2的使用说明](https://github.com/jawil/blog/issues/7)
 
+- [FlutterGo 后台代码知识点提炼:midway+Typescript+mysql(sequelize)](https://github.com/Nealyang/PersonalBlog/issues/54)
+
 ## 数据库相关
 
 ## 前端综合
