@@ -12,6 +12,7 @@
 - [忍者级别的操作JavaScript函数](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/%E5%BF%8D%E8%80%85%E7%BA%A7%E5%88%AB%E7%9A%84%E6%93%8D%E4%BD%9C%E5%87%BD%E6%95%B0.md)
 - [this 其实很简单](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/%E5%BD%BB%E5%BA%95%E6%98%8E%E7%99%BDthis%E6%8C%87%E5%90%91.md?1536536968756)
 - [Decorator:从原理到实践，我一点都不虚~](https://github.com/Nealyang/PersonalBlog/issues/35)
+- [【THE LAST TIME】彻底吃透 JavaScript 执行机制](https://github.com/Nealyang/PersonalBlog/issues/55)
 
 
 ## 关于React
