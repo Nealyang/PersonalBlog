@@ -108,7 +108,7 @@
 
 <img src="https://raw.githubusercontent.com/Nealyang/PersonalBlog/master/img/qzqdjx.jpg" width=400 height=400 />
 
-> 扫码关注微信公众号，获取第一手文章推送。加入微信群、或者加我个人微信，一起交流
+> 扫码关注微信公众号【全栈前端精选】，获取第一手文章推送。加入微信群、或者加我个人微信，一起交流
 
 QQ群：
 
