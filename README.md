@@ -14,6 +14,7 @@
 - [Decorator:从原理到实践，我一点都不虚~](https://github.com/Nealyang/PersonalBlog/issues/35)
 - [【THE LAST TIME】彻底吃透 JavaScript 执行机制](https://github.com/Nealyang/PersonalBlog/issues/55)
 - [【THE LAST TIME】this：call、apply、bind](https://github.com/Nealyang/PersonalBlog/issues/56)
+- [【THE LAST TIME】一文吃透所有JS原型相关知识点](https://github.com/Nealyang/PersonalBlog/issues/57)
 
 
 ## 关于React
