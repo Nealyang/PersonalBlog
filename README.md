@@ -107,7 +107,7 @@
 
 ### 微信公众号 && 微信群
 
-<img src="https://img.alicdn.com/tfs/TB1Ec3uq8r0gK0jSZFnXXbRRXXa-681-378.gif" />
+![](https://img.alicdn.com/tfs/TB1Ec3uq8r0gK0jSZFnXXbRRXXa-681-378.gif)
 
 > 扫码关注微信公众号【全栈前端精选】，获取第一手文章推送。加入微信群、或者加我个人微信，一起交流
 
