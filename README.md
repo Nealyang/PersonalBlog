@@ -106,6 +106,9 @@
 - [学习方法分享：为何一年半就能拿到大厂 offer](https://github.com/Nealyang/PersonalBlog/issues/49)
 - [大揭秘！“恐怖”的阿里一面，我究竟想问什么](https://github.com/Nealyang/PersonalBlog/issues/50)
 
+## 书虫录
+- [富爸爸穷爸爸](https://github.com/Nealyang/PersonalBlog/issues/62)
+
 ## 技术交流
 
 ### 微信公众号 && 微信群
