@@ -108,6 +108,7 @@
 
 ## 书虫录
 - [富爸爸穷爸爸](https://github.com/Nealyang/PersonalBlog/issues/62)
+- [小狗钱钱](https://github.com/Nealyang/PersonalBlog/issues/63)
 
 ## 技术交流
 
