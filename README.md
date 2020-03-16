@@ -97,6 +97,7 @@
 ## 前端综合
 - [不就是跨域么。。。慌个xx](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/JavaScript%E4%B8%AD%E7%9A%84%E8%B7%A8%E5%9F%9F%E6%80%BB%E7%BB%93.md?1536536995051)
 - [编写高质量代码基本要点](./OnceTheBlog/编写高质量代码基本要点.md)
+- [一张页面引起的前端架构思考](https://github.com/Nealyang/PersonalBlog/issues/64)
 
 ## 杂谈前端
 
