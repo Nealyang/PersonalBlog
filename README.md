@@ -16,6 +16,7 @@
 - [【THE LAST TIME】this：call、apply、bind](https://github.com/Nealyang/PersonalBlog/issues/56)
 - [【THE LAST TIME】一文吃透所有JS原型相关知识点](https://github.com/Nealyang/PersonalBlog/issues/57)
 - [【THE LAST TIME】深入浅出 JavaScript 模块化](https://github.com/Nealyang/PersonalBlog/issues/61)
+- [【THE LAST TIME】Typescript 进阶之重难点梳理](https://github.com/Nealyang/PersonalBlog/issues/65)
 
 ## Typescript
 - [Typescript+Decorator:装饰你的代码](https://github.com/Nealyang/PersonalBlog/issues/59)
