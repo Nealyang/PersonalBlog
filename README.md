@@ -21,6 +21,7 @@
 - [Typescript+Decorator:装饰你的代码](https://github.com/Nealyang/PersonalBlog/issues/59)
 - [【THE LAST TIME】Typescript 进阶之重难点梳理](https://github.com/Nealyang/PersonalBlog/issues/65)
 - [一张页面引起的前端架构思考](https://github.com/Nealyang/PersonalBlog/issues/64)
+- [拍卖源码架构在拍品详情页上的探索](https://github.com/Nealyang/PersonalBlog/issues/69)
 
 ## 关于React
 - [记一个复杂组件（Filter）的从设计到开发](https://github.com/Nealyang/PersonalBlog/issues/47)
