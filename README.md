@@ -127,11 +127,3 @@
 -|-|
 ![](https://img.alicdn.com/tfs/TB1TwPlr.T1gK0jSZFrXXcNCXXa-900-500.png) | ![](https://img.alicdn.com/tfs/TB1HRHmr7L0gK0jSZFAXXcA9pXa-430-430.png) |
 
-QQ群：
-
-nodejs 技术交流2群号:698239345
-nodejs 技术交流1群号:209530601（已满）
-
-React技术栈群号:398240621
-
-前端技术杂谈群号:604953717
