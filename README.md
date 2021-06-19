@@ -99,6 +99,10 @@
 
 ## 数据库相关
 
+## vscode-extension
+- [基于 monorepo 的 vscode 插件及其相关 packages 开发的架构实践总结](https://github.com/Nealyang/PersonalBlog/issues/99)
+
+
 ## 前端综合
 - [不就是跨域么。。。慌个xx](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/JavaScript%E4%B8%AD%E7%9A%84%E8%B7%A8%E5%9F%9F%E6%80%BB%E7%BB%93.md?1536536995051)
 - [编写高质量代码基本要点](./OnceTheBlog/编写高质量代码基本要点.md)
