@@ -101,6 +101,8 @@
 
 ## vscode-extension
 - [基于 monorepo 的 vscode 插件及其相关 packages 开发的架构实践总结](https://github.com/Nealyang/PersonalBlog/issues/99)
+- [自动化生成骨架屏的技术方案设计与落地](https://github.com/Nealyang/PersonalBlog/issues/108)
+- [BeeMa架构：赋能业务源码开发](https://github.com/Nealyang/PersonalBlog/issues/103)
 
 
 ## 前端综合
