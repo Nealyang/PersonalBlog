@@ -25,6 +25,7 @@
 - [一张页面引起的前端架构思考](https://github.com/Nealyang/PersonalBlog/issues/64)
 - [拍卖源码架构在拍品详情页上的探索](https://github.com/Nealyang/PersonalBlog/issues/69)
 - [TypeScript 类型编程](https://github.com/Nealyang/PersonalBlog/issues/135)
+- [tsconfig 备忘清单](https://github.com/Nealyang/PersonalBlog/issues/136)
 
 ## 关于React
 - [记一个复杂组件（Filter）的从设计到开发](https://github.com/Nealyang/PersonalBlog/issues/47)
